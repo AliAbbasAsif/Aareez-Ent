@@ -1,0 +1,232 @@
+html {
+    scroll-behavior: smooth;
+  }
+#logo {
+    width: 55px;
+}
+.bg-whitecus{
+background-color: rgba(255, 255, 255, 0.512);
+}
+@media screen and (max-width: 480px) {
+    #logo{
+        width: 45px;
+    }
+  }
+.custom:hover {
+    color: crimson!important;
+}
+.bg-cus-dark{
+    background-color: rgb(21, 21, 21);
+}
+.banner-image {
+    background-image: url("../Images/gas-Industry-Economy-1.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.banner-image2 {
+    height: 70vh;
+    background-image: url("../Images/istockphoto-477914032-612x612.jpg");
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.banner-image3 {
+    height: 70vh;
+    background-image: url("../Images/photo-1529792083865-d23889753466.avif");
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    /* background-repeat: no-repeat */
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.banner-image4 {
+    height: 70vh;
+    background-image: url("../Images/photo-1567954970774-58d6aa6c50dc.avif");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+    /* background-repeat: no-repeat */
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.banner-image5 {
+    height: 70vh;
+    background-image: url("../Images/photo-1482859454392-1b5326395032.avif");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+    /* background-repeat: no-repeat */
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.cus-fs{
+    font-size: 3.5rem;
+}
+.cubtn {
+    background-color: crimson;
+    color: white;
+    font-weight: bold;
+}
+.text-anc{
+    color: crimson; 
+    border: crimson;
+}
+.cubtn:hover {
+    color: crimson !important;
+    border: 1px solid crimson !important;
+}
+
+.cstext {
+    color: crimson;
+}
+
+.csicon {
+    color: crimson;
+    font-size: 60px;
+}
+.csower{
+    overflow-x: hidden;
+}
+.csimage {
+    background-image: url("../Images/photo-1486325212027-8081e485255e.avif");
+    background-size: cover;
+    height: 100vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.cshtext {
+    color: black;
+}
+
+.cshtext:hover {
+    color: crimson;
+}
+
+.csimage2 {
+    background-image: url("../Images/istockphoto-954437052-612x612.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.p1 {
+    background-image: url("../Images/p1.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.p2 {
+    background-image: url("../Images/p2.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.p3 {
+    background-image: url("../Images/p3.avif");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.p4 {
+    background-image: url("../Images/p4.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.p5 {
+    background-image: url("../Images/p5.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.p6 {
+    background-image: url("../Images/p6.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.p7 {
+    background-image: url("../Images/p7.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.p8 {
+    background-image: url("../Images/p8.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.csbg {
+    border-top: 5px solid crimson;
+    background-color: #222;
+}
+
+.cusbtn {
+    background-color: crimson;
+    padding: 10px 15px 10px 15px;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    border: none;
+    z-index: 99;
+    bottom: 25px;
+    right: 22px;
+}
+.inp-btn{
+    background-color: crimson;
+    padding: 8px 50px;
+    color: white;
+}
+.inp-btn:hover{
+    border: 2px solid crimson !important;
+    color: crimson !important;
+}
+#up{
+    text-decoration: none;
+}
+.flogo{
+    width: 3vh;
+}
+.csa{
+    color: crimson;
+    text-decoration: none;
+}
+.csa:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+.cccc{
+    overflow-x: hidden;
+}
+.w-cus{
+    width: 56%;
+}
